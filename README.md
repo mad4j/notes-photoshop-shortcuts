@@ -1,9 +1,11 @@
 # Notes on Photoshop shortcuts
 collection of useful Adobe Photoshop shortcuts
 
+## Document arrangement
+
 | Shortcut                                | Name                     | Notes                                   |
 |-----------------------------------------|--------------------------|-----------------------------------------|
-| <kbd>Space</kbd>                        | Hand Tool                | Move around a zoomed photo              |
+| <kbd>Space</kbd>                        | Hand Tool                | Move around a zoomed document           |
 | <kbd>Ctrl</kbd> <kbd>Space</kbd>        | Zoom Tool                | Fast Zoom using mouse movement          |
 | <kbd>F</kbd>                            | Cycle Screen Modes       |                                         |
 | <kbd>X</kbd>                            | Switch Colors            | Switch Foreground and Background colors |
