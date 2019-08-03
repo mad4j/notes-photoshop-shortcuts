@@ -12,8 +12,11 @@ collection of useful Adobe Photoshop shortcuts
 | <kbd>D</kbd>                            | Default Colors           | Reset colors to Black and White         |
 | <kbd>Ctrl</kbd> <kbd>Z</kbd>            | Undo                     | Go back through the history list        |
 | <kbd>Ctrl</kbd> <kbd>S</kbd>            | Save                     | Save the document                       |
+| <kbd>Ctrl</kbd> <kbd>0</kbd>            | Fit on Screen            |                                         |
+| <kbd>Ctrl</kbd> <kbd>1</kbd>            | Zoom at 100%             |                                         |
 
 ## Selections
+
 | Shortcut                                | Name                     | Notes                                   |
 |-----------------------------------------|--------------------------|-----------------------------------------|
 | <kbd>Ctrl</kbd> <kbd>H</kbd>            | Hide Selection           |                                         |
