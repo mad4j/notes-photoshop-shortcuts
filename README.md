@@ -1,4 +1,4 @@
-# notes-photoshop-shortcuts
+# Notes on Photoshop shortcuts
 collection of useful Adobe Photoshop shortcuts
 
 |-----------------------------------------|--------------------------|
