@@ -21,6 +21,14 @@ collection of useful Adobe Photoshop shortcuts
 | <kbd>F</kbd>                            | Cycle Screen Modes       |                                         |
 | <kbd>Tab</kbd>                          | Show/Hide Panels         |                                         |
 
+## Brushes
+
+| Shortcut                                | Name                     | Notes                                   |
+|-----------------------------------------|--------------------------|-----------------------------------------|
+| <kbd>X</kbd>                            | Switch Colors            | Switch Foreground and Background colors |
+| <kbd>D</kbd>                            | Default Colors           | Reset colors to Black and White         |
+| <kbd>Alt</kbd> <kbd>Right click</kbd>   | Brush Size & Hardnes     |                                         |
+
 ## Selections
 
 | Shortcut                                | Name                     | Notes                                   |
