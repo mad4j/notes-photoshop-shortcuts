@@ -30,6 +30,8 @@ collection of useful Adobe Photoshop shortcuts
 | <kbd>D</kbd>                            | Default Colors           | Reset colors to Black and White         |
 | <kbd>Alt</kbd>                          | Dropper                  |                                         |
 | <kbd>Alt</kbd> <kbd>Right click</kbd>   | Brush Size & Hardness    |                                         |
+| <kbd>1</kbd>-<kbd>9</kbd>               | Brush Opacity Level      | Max level of color in a single stroke   |
+| <kbd>Shift</kbd> <kbd>1</kbd>-<kbd>9</kbd>   | Brush Flow Lelvel   | Level of color applied in a single pass within the same stroke |
 
 
 ## Selections
