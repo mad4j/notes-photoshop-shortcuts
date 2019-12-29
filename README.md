@@ -31,7 +31,7 @@ collection of useful Adobe Photoshop shortcuts
 | <kbd>Alt</kbd>                          | Dropper                  |                                         |
 | <kbd>Alt</kbd> <kbd>Right click</kbd>   | Brush Size & Hardness    |                                         |
 | <kbd>1</kbd>-<kbd>0</kbd>               | Brush Opacity Level      | Max level of color applied within in a single stroke   |
-| <kbd>Shift</kbd> <kbd>1</kbd>-<kbd></kbd>   | Brus0h Flow Lelvel   | Level of color applied in a single pass within the same stroke |
+| <kbd>Shift</kbd><kbd>1</kbd>-<kbd>0</kbd>| Brus0h Flow Lelvel      | Level of color applied in a single pass within the same stroke |
 
 
 ## Selections
