@@ -25,6 +25,7 @@ collection of useful Adobe Photoshop shortcuts
 
 | Shortcut                                | Name                     | Notes                                   |
 |-----------------------------------------|--------------------------|-----------------------------------------|
+| <kbd>B</kbd>                            | Select Brush Tool        |                                         |
 | <kbd>X</kbd>                            | Switch Colors            | Switch Foreground and Background colors |
 | <kbd>D</kbd>                            | Default Colors           | Reset colors to Black and White         |
 | <kbd>Alt</kbd>                          | Dropper                  |                                         |
